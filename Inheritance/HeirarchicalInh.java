@@ -1,6 +1,6 @@
 package Inheritance;
 
-import java.net.SocketPermission;
+//import java.net.SocketPermission;
 
 public class HeirarchicalInh { 
     public static void main(){ 

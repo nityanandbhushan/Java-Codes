@@ -44,4 +44,12 @@ class Fish extends Animal{
         System.out.print("Fish hava smallsize");
     }
 
-} 
+}  
+class Shark extends Fish{ 
+    void bigsize(){  
+        System.out.print("Shark hava big size");
+    } 
+    void bigwings(){ 
+        System.out.print("Sharks have big wings");
+    }
+}
