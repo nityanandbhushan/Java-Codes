@@ -19,7 +19,7 @@ public class trappingW {
         for (int i = 0; i < height.length - 1; i++) {
             int waterlevel = Math.min(leftmax[i], rightmax[i]);
             trappedwater += waterlevel - height[i];
-        }
+         }
         System.out.println("Total water trapping " + trappedwater);
     }
 

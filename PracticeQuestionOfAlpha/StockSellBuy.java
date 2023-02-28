@@ -1,5 +1,5 @@
 package PracticeQuestionOfAlpha; 
-import java.util.*;
+//import java.util.*;
 
 public class StockSellBuy { 
     public static void findingMaxprof( int arr[]){ 
