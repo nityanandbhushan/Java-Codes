@@ -1,4 +1,5 @@
-package chapterString;
+package chapterString; 
+import java.util.*;
 public class String {
     public static void printing_string(String fullName){ 
         for(int i=0;i<fullName.length()-1;i++){ 
@@ -8,8 +9,8 @@ public class String {
 
     } 
     public static void main(String args[]){ 
-        String firstName='Nitya';  
-        String lastName='Nand'; 
+        String firstName="Nitya";  
+        String lastName="Nand"; 
         String fullName=firstName+" "+lastName; 
         printing_string(fullName); 
 
