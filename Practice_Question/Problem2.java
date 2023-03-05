@@ -1,8 +1,8 @@
 package Practice_Question;
-import java.lang.StringBuilder;
+import java.lang.StringBuffer;
 public class Problem2 {  
     public static void printing_substring(String str){  
-        StringBuilder sb=new StringBuilder(""); 
+        StringBuffer sb=new StringBuffer(""); 
         //sb.append(str.charAt(0));
         for(int i=1;i<str.length();i++){  
             int start=i;
