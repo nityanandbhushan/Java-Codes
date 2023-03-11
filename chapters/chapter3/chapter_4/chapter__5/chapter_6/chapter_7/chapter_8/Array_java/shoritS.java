@@ -27,7 +27,7 @@ public class shoritS {
         int key=sc.nextInt();
 
         int arr[]={3,4,7,23,45,98,67,45,243};
-       int sim= binary_search(arr,key); 
+       int sim= bi_sear(arr,key); 
        System.out.println(sim);
 
     }
