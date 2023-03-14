@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class CheckEvenOdd { 
     public static void IsEvenOdd(int n){ 

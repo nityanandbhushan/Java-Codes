@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class SetIthBit { 
     public static int setIthBit(int n,int i){ 

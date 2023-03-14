@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class GetIthBit { 
     public static void getIthBit(int n,int i){ 

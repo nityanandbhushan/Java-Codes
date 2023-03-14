@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class ClearLastIthBit { 
     public static int clearlastIthBit(int n,int j){  

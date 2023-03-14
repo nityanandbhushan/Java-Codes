@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class BinaryAND { 
     public static void main(String args[]){  

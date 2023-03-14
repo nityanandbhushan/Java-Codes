@@ -6,8 +6,11 @@ public class Helloo {
         System.out.print("ENTER THE FIRST VALUE");
         int a = sc.nextInt(); 
         System.out.print("ENTER THE SECOND VALUE"); 
-        int b = sc.nextInt(); 
-        int sum=a+b; 
-        System.out.println("sum of a and b is" +sum);
+        int b = sc.nextInt();  
+        System.out.print("ENTER THE SECOND VALUE"); 
+        int c = sc.nextInt();
+        float avg=a+b+c/3;  
+
+        System.out.println("sum of a and b is" +avg);
     }
 }

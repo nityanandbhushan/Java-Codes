@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class FastExpnantiation { 
     public static int fastExpnantiation(int n,int sqr){ 

@@ -1,4 +1,4 @@
-package BitManuplation;
+package BitManuplationPractice;
 
 public class CountSetBitInNumber { 
     public static int countSetBitNumber(int n){ 
