@@ -1,6 +1,6 @@
-package chapters.chapter3.chapter_4.chapter__5.chapter_6.chapter_7;
+package JavaFunctionPractice;
 import java.util.*;
-public class deciToBin {  
+public class BinDecCon {
     public static int  BinDec(int bin)
     {  
         int pow=0; 
@@ -25,5 +25,4 @@ public class deciToBin {
         int decimal =BinDec(bin); 
         System.out.println(decimal);
     }
-    
 }
