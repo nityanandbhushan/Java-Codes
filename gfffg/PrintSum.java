@@ -7,7 +7,7 @@ public class PrintSum {
         return 0;
       } 
       printSum(n-1);
-      int sum+=+n; 
+       sum+=n; 
       return sum;
 
     }

@@ -1,7 +1,7 @@
 package Practice_Question;
 import java.util.*;
-public class Problem2 {  
-    
+
+public class TwoD {  
     public static void main(String args[])
     {  
         int matrix[][]=new int[3][3]; 
@@ -16,7 +16,7 @@ public class Problem2 {
         for(int i=0;i<n;i++)
         {  
             for(int j=0;j<m;j++){  
-                System.out.print(matrix[i][j]+" ");
+                System.out.print(matrix[i][j]);
                 
             } 
             System.out.print("");
